@@ -5,7 +5,7 @@ DeAuthAll is a shell script designed to automate the process of network sniffing
 # Usage
 In it's current form, the program requires you to already know the MAC address of your network and the wireless interface you wish to use:
 Run the script like this:
-* (sudo) bash deauthall.sh <MAC address of AP> <wireless interface (e.g wlp3s0b1 or wlan0)>
+* (sudo) bash deauthall.sh (MAC address of AP) (wireless interface)
 
 
 # Dependencies
