@@ -17,3 +17,11 @@ Dependencies:
 
 # Installation
 You can either run the install.sh script (which installs all required dependencies), or you can run full-install.sh, which not only installs all the dependencies but also makes a copy of the deauth script, then places it in your /usr/bin directory and exports it's path to your .bashrc so you can run the script just by typing deauthall!
+
+# Why is this script better?
+You might be thinking, 'Why is this script better than running the command myself?'
+This program not only runs the command automatically, but it will also automatically start again if the target AP resets itself to kick you out. This means that it will deauthenticate every wireless device on the network infinitely until it gets stopped.
+
+
+# Future Updates
+In a future update to this program, I plan to make the ENTIRE process automatic. This means automatically starting monitor mode (allowing the user to see all available target networks) AND automatically performing the attack.
