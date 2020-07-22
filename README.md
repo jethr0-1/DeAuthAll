@@ -4,7 +4,7 @@ DeAuthAll is a shell script designed to automate the process of network sniffing
 
 # Disclaimer!!
 This program was created for educational purposes, and using it to attack other peoples networks with their prior consent is ILLEGAL! 
-I (Jethr0) do not take any responsibility for any malicious use of this program, it's on you!
+I (Jethr0) do not take any responsibility for any malicious use of this program, it's on you if you use this with any illegal or malicious intent
 
 # Usage
 In it's current form, the program requires you to already know the MAC address of your network and the wireless interface you wish to use:
@@ -20,7 +20,7 @@ Dependencies:
 3. coreutils (comes pre-installed with most, if not every distro of Linux)
 
 # Installation
-You can either run the install.sh script (which installs all required dependencies), or you can run full-install.sh, which not only installs all the dependencies but also makes a copy of the deauth script, then places it in your /usr/bin directory and exports it's path to your .bashrc so you can run the script just by typing deauthall!
+Just run the install.sh script, which installs all required dependencies
 
 # Why is this script better?
 You might be thinking, 'Why is this script better than running the command myself?'
