@@ -22,6 +22,11 @@ Dependencies:
 # Installation
 Just run the install.sh script, which installs all required dependencies
 
+# Beta updates
+Go to this Google Form to apply for the DeAuthAll beta update program, which allows you to try new updates of DeAuthAll before they become officially available.
+* https://forms.gle/fAd8ZjdQwSWL35QR9
+
+
 # Why is this script better?
 You might be thinking, 'Why is this script better than running the command myself?'
 This program not only runs the command automatically, but it will also automatically start again if the target AP resets itself to kick you out. This means that it will deauthenticate every wireless device on the network infinitely until it gets stopped.
