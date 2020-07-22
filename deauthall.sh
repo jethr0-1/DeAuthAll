@@ -1,10 +1,10 @@
-figlet 'Deauth All'
+figlet 'DeAuthAll'
 echo 'Author: Jethr0'
 if [ -z "$1" ]
 then
     echo '[!] Missing arguments!'
     echo 'Usage:'
-    echo 'bash deauth-all.sh <targets MAC> <wireless interface>'
+    echo './deauthall.sh <targets MAC> <wireless interface>'
 else
     NUMBER=1
     while (( NUMBER == 1 ))
