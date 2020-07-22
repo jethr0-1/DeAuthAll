@@ -2,6 +2,10 @@
 
 DeAuthAll is a shell script designed to automate the process of network sniffing and performing deauthentication attacks
 
+# Disclaimer!!
+This program was created for educational purposes, and using it to attack other peoples networks with their prior consent is ILLEGAL! 
+I (Jethr0) do not take any responsibility for any malicious use of this program, it's on you!
+
 # Usage
 In it's current form, the program requires you to already know the MAC address of your network and the wireless interface you wish to use:
 Run the script like this:
