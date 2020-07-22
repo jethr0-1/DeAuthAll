@@ -6,4 +6,5 @@ fi
 
 echo '[!] Installing dependencies...'
 apt install figlet aircrack-ng coreutils
+chmod +x deauthall.sh
 echo '[+] Ready!'
