@@ -11,6 +11,8 @@ In it's current form, the program requires you to already know the MAC address o
 Run the script like this:
 * (sudo) bash deauthall.sh (MAC address of AP) (wireless interface)
 
+# New Updated Version!
+The new update for DeAuthAll makes the entire process automatic, from choosing your wireless interface to finding nearby access points, the whole thing is automated for you. All you need to do is run the script!
 
 # Dependencies
 To install all the dependencies you can either install them manually (list below), or you can run the install.sh script as root.
@@ -34,4 +36,4 @@ This program not only runs the command automatically, but it will also automatic
 
 
 # Future Updates
-In a future update to this program, I plan to make the ENTIRE process automatic. This means automatically starting monitor mode (allowing the user to see all available target networks) AND automatically performing the attack.
+I have no plans for future updates to this program, but feel free to leave suggestions in the above Google form.
