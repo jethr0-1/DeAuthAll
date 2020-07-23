@@ -15,9 +15,10 @@ Run the script like this:
 # Dependencies
 To install all the dependencies you can either install them manually (list below), or you can run the install.sh script as root.
 Dependencies:
-1. figlet (sudo apt install figlet
+1. figlet (sudo apt install figlet)
 2. aircrack-ng suite (sudo apt install aircrack-ng)
 3. coreutils (comes pre-installed with most, if not every distro of Linux)
+4. network-manager (comes pre-installed with most systems, but just in case: sudo apt install network-manager)
 
 # Installation
 Just run the install.sh script, which installs all required dependencies
