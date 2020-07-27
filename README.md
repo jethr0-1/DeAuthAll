@@ -7,9 +7,8 @@ This program was created for educational purposes, and using it to attack other 
 I (Jethr0) do not take any responsibility for any malicious use of this program, it's on you if you use this with any illegal or malicious intent
 
 # Usage
-In it's current form, the program requires you to already know the MAC address of your network and the wireless interface you wish to use:
-Run the script like this:
-* (sudo) bash deauthall.sh (MAC address of AP) (wireless interface)
+All you need to do is run the bash script as root (or with sudo), and the entire process is automated for you!
+* (sudo) bash deauthall.sh
 
 # New Updated Version!
 The new update for DeAuthAll makes the entire process automatic, from choosing your wireless interface to finding nearby access points, the whole thing is automated for you. All you need to do is run the script!
